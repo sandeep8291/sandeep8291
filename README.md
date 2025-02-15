@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Sandeep, a Data Engineering student skilled in Python (NumPy, Pandas, Matplotlib), SQL, data warehousing, ETL, and basics of C.<br>I've worked on SQL and frontend projects using HTML and CSS, aiming to become a proficient Data Engineer.
+Hi, I’m Sandeep Yadav, a passionate Data Engineering enthusiast currently working on ETL pipelines, SQL databases, and Cloud technologies. I have hands-on experience in Python, Pandas, NumPy, and SQL, and I’m currently upskilling in Apache Airflow and Big Data. My goal is to build scalable and efficient data solutions
 
 
 ## 🌐 Socials:
